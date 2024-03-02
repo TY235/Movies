@@ -1,6 +1,6 @@
 # Movies
 
-The Movies App is a Android application designed to provide users with information about Marvel movies. 
+The Movies App is an Android application designed to provide users with information about Marvel movies. 
 
 ## Requirements
 
