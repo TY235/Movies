@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "240236824078",
+    "project_id": "movies-6969",
+    "storage_bucket": "movies-6969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240236824078:android:0ba39eb9561947b5d81e5f",
+        "android_client_info": {
+          "package_name": "com.tzeyi.movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240236824078-i38t0g4i0tigbek5r84k8g98cv3uc7lj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tzeyi.movies",
+            "certificate_hash": "dc9d5076a2e32d6cc05d6925305ad86ceee8dcef"
+          }
+        },
+        {
+          "client_id": "240236824078-gb6b0ke663lk9cn29rkqlug3qihlu7t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeI4YRQ7uVlzvUTkaZNobkdXgfXhGs7NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240236824078-gb6b0ke663lk9cn29rkqlug3qihlu7t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

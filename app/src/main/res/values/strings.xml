@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <string name="login_landing_title">Access more with an account </string>
+    <string name="login_landing_subtitle">Login to an account so you could access more features</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+
+    <string name="login_title">Welcome back 👋</string>
+    <string name="login_subtitle">I am so happy to see you again. You can continue to login for more features.</string>
+
+    <string name="sign_up_title">Welcome 🎉</string>
+    <string name="sign_up_subtitle">We\'re thrilled to have you join us. Sign up now to access more features and start your journey.</string>
+
+    <string name="sign_up_prompt">Don\'t have an account?</string>
+    <string name="login_prompt">Already have an account?</string>
+</resources>
