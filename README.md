@@ -25,8 +25,6 @@ The Movies App is a Android application designed to provide users with informati
  <br>
 </div>
 
-![1](images/1.png) ![2](images/2.png)
-
 ## Download Application 👇
 
 - The APK file ([app-debug.apk](app-debug.apk)) can be founded under the root folder
