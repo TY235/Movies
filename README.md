@@ -8,7 +8,7 @@ The Movies App is an Android application designed to provide users with informat
 
   You can download the latest version of Android Studio from [here](https://developer.android.com/studio).
 
- ## ScreenShots 📷  
+ ## Screenshots 📷  
 <div align="center">
   <h3> Light Version </h3>
   <img src="images/1.png" width="230px"/> 
